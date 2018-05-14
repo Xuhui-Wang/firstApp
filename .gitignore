@@ -1,0 +1,4 @@
+FirstApp*/**
+
+## only include swift code in those subdirectories
+!FirstApp*/*.swift
